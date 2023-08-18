@@ -5,7 +5,7 @@ Bem-vindo ao repositório do meu Projeto de Controle de Fluxo, inspirado  [desaf
 
 ## Descrição
 
-Este projeto é um exemplo de aplicação que utiliza controle de fluxo para realizar uma contagem progressiva de acordo com os parâmetros fornecidos pelo usuário. Foi desenvolvido como parte do curso [nome do curso] da DIO.
+Este projeto é um exemplo de aplicação que utiliza controle de fluxo para realizar uma contagem progressiva de acordo com os parâmetros fornecidos pelo usuário. Foi desenvolvido como parte do curso BackEnd Java Santander.
 
 ## Funcionalidades
 
@@ -15,5 +15,4 @@ Este projeto é um exemplo de aplicação que utiliza controle de fluxo para rea
 ## Contato
 - Meu linkedin: [ADRIEL SOUSA](https://www.linkedin.com/in/adriel-sousa-80186a241/)
 - Email:: adriel.alexs123@gmail.com
-
 
