@@ -12,5 +12,6 @@ Este projeto é um exemplo de aplicação que utiliza controle de fluxo para rea
 - Exceção personalizada
 
 ## Contato
-- Meu linkedin: [ADRIEL SOUSA](https://www.linkedin.com/in/adriel-sousa-80186a241/)
-- Email:: adriel.alexs123@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6633CC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-sousa-80186a241/)
+
+- [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrielProg)
