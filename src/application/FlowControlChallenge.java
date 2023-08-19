@@ -2,7 +2,7 @@ package application;
 
 import java.util.Scanner;
 
-import exeception.InvalidParametersException;
+import model.exception.InvalidParametersException;
 
 public class FlowControlChallenge {
 
